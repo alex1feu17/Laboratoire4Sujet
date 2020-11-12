@@ -20,7 +20,10 @@
 
   <ItemGroup>
    
+    
+    <ProjectReference Include="..\..\Laboratoire4Sujet\WeatherApp\WeatherApp.csproj" />
     <ProjectReference Include="..\OpenWeatherAPI\OpenWeatherAPI.csproj" />
+  
   </ItemGroup>
 
 </Project>

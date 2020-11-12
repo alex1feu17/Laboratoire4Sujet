@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\OpenWeatherTest\OpenWeatherAPI\OpenWeatherAPI.csproj" />
-    <ProjectReference Include="..\OpenWeatherAPI\OpenWeatherAPI.csproj" />
+  
+    <ProjectReference Include="..\..\Laboratoire4Sujet\OpenWeatherAPI\OpenWeatherAPI.csproj" />
   </ItemGroup>
 
   <ItemGroup>
